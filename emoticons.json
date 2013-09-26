@@ -996,7 +996,7 @@
     "shortcut": "(unknown)"
   },
   {
-    "image": "branch-1372171579.png",
+    "image": "like.png",
     "height": "16",
     "width": "16",
     "shortcut": "(branch)"
@@ -1012,5 +1012,11 @@
     "height": "26",
     "width": "33",
     "shortcut": "(badjokeeel)"
+  }
+  {
+    "image": "Like.png",
+    "height": "18",
+    "width": "18",
+    "shortcut": "(Y)"
   }
 ]
